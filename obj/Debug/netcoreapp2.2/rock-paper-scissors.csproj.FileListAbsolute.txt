@@ -1,0 +1,11 @@
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\bin\Debug\netcoreapp2.2\rock-paper-scissors.deps.json
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\bin\Debug\netcoreapp2.2\rock-paper-scissors.runtimeconfig.json
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\bin\Debug\netcoreapp2.2\rock-paper-scissors.runtimeconfig.dev.json
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\bin\Debug\netcoreapp2.2\rock-paper-scissors.dll
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\bin\Debug\netcoreapp2.2\rock-paper-scissors.pdb
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\obj\Debug\netcoreapp2.2\rock-paper-scissors.csprojAssemblyReference.cache
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\obj\Debug\netcoreapp2.2\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\obj\Debug\netcoreapp2.2\rock-paper-scissors.AssemblyInfoInputs.cache
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\obj\Debug\netcoreapp2.2\rock-paper-scissors.AssemblyInfo.cs
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\obj\Debug\netcoreapp2.2\rock-paper-scissors.dll
+C:\Users\butle\Desktop\Projects\Algorithms\rock-paper-scissors\obj\Debug\netcoreapp2.2\rock-paper-scissors.pdb
